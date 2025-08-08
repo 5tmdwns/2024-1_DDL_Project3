@@ -1,2 +1,5 @@
-# 2024-1_DDL_Project3
-경희대학교 2024-1학기 디지털설계및언어 프로젝트3
+<p align="center">
+  <h1 align="center">RISC와 DNN을 결합한 Floating Point 가속기✨</h1>
+</p>
+
+(수정중)
