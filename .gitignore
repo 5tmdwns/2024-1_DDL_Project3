@@ -1,0 +1,64 @@
+# =========================
+# Vivado & XSIM Simulation
+# =========================
+
+# Vivado-generated project & temp files
+*.jou
+*.log
+*.pb
+*.wdb
+*.wcfg
+*.xpr
+*.xml
+*.html
+*.ltx
+*.str
+*.dcp
+*.rpt
+*.wbt
+*.tcl.history
+
+# Vivado auto-generated folders
+*.cache/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.srcs/
+*.sdk/
+*.gen/
+*.xpr/
+*.ip_user_files/
+xsim.dir/
+xvlog.pb
+xelab.pb
+
+# Temporary wave / database files
+*.vcd
+*.saif
+*.vpd
+*.svf
+
+# TCL batch outputs
+logs/
+*.log/
+*.jou/
+
+# Temp backup files
+*~
+*.bak
+*.tmp
+*.swp
+*.swo
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# =========================
+# Optional: local scripts
+# =========================
+# Uncomment if you don't want to push your run scripts
+#xsim_sub
+#run.tcl
+
